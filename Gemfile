@@ -9,7 +9,7 @@ gem 'sqlite3'
 gem 'high_voltage'
 gem 'flutie', '~> 1.1'
 
-gem 'sqlite3-ruby', :require => 'sqlite3'
+gem 'sqlite3-ruby', :require => 'sqlite3', :group => :development
 # Use unicorn as the web server
 # gem 'unicorn'
 
